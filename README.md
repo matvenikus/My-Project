@@ -8,4 +8,4 @@ _By the way here's his photo_
 
 ![](https://i.imgur.com/XWfBo7S.png)
 
- `theme: The Cayman theme`
+ `theme: cayman`
